@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235261011890",
+    "project_id": "chatbot-cd241",
+    "storage_bucket": "chatbot-cd241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235261011890:android:d972766bbcfc29ba86a6ab",
+        "android_client_info": {
+          "package_name": "com.bae.dialogflowbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235261011890-o7msrk3uai38cpe567b3e0lp6rj6d5cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdcbySNhKgqsVY_g0uqoimIqEuFF_NcEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235261011890-o7msrk3uai38cpe567b3e0lp6rj6d5cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
